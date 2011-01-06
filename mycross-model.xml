@@ -8,14 +8,14 @@
         <pattern>
             <e r="LR">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -23,8 +23,8 @@
             <action>
                 <e r="LR">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -35,14 +35,14 @@
         <pattern>
             <e r="LR">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="m"/></r>
                 </p>
             </e>
         </pattern>
@@ -50,8 +50,8 @@
             <action>
                 <e r="LR">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="m"/></r>
                     </p>
                 </e>
             </action>
@@ -62,14 +62,14 @@
         <pattern>
             <e r="LR">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="f"/></r>
                 </p>
             </e>
         </pattern>
@@ -77,8 +77,8 @@
             <action>
                 <e r="LR">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="f"/></r>
                     </p>
                 </e>
             </action>
@@ -89,14 +89,14 @@
         <pattern>
             <e r="LR">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="m"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -104,8 +104,8 @@
             <action>
                 <e r="LR">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="m"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -116,14 +116,14 @@
         <pattern>
             <e r="LR">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="f"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -131,8 +131,8 @@
             <action>
                 <e r="LR">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="f"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -143,14 +143,14 @@
         <pattern>
             <e r="LR">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="*"/></r>
                 </p>
             </e>
         </pattern>
@@ -158,8 +158,8 @@
             <action>
                 <e r="LR">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/></r>
                     </p>
                 </e>
             </action>
@@ -170,14 +170,14 @@
         <pattern>
             <e r="LR">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="*"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -185,8 +185,8 @@
             <action>
                 <e r="LR">
                     <p>
-                        <l>$lemmaA<v n="cat"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -197,7 +197,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="m"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -205,7 +205,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="m"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -213,8 +213,8 @@
 		<action>	
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -225,7 +225,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="m"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -233,7 +233,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="f"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -241,8 +241,8 @@
 		<action>
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -253,7 +253,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="f"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -261,7 +261,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="f"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -269,8 +269,8 @@
 		<action>
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -281,7 +281,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="f"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -289,7 +289,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="m"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -297,8 +297,8 @@
 		<action>
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -309,7 +309,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="*"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -317,7 +317,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="m"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -325,8 +325,8 @@
 		<action>
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -337,7 +337,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="*"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -345,7 +345,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="f"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -353,8 +353,8 @@
 		<action>
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -365,7 +365,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="f"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -373,7 +373,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="*"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -381,8 +381,8 @@
 		<action>
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -393,7 +393,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="m"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -401,7 +401,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="*"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -409,8 +409,8 @@
 		<action>
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -421,7 +421,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="*"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -429,7 +429,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="*"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -437,8 +437,8 @@
 		<action>
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/></l>
+					<r>$lemmaC<v n="cat"/></r>
 				</p>
 			</e>
 		</action>
@@ -449,7 +449,7 @@
 	<pattern>
 		<e r="LR">
 			<p>
-				<l>$lemmaA<v n="cat"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -457,7 +457,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -465,8 +465,8 @@
 		<action>
 			<e r="LR">
 				<p>
-					<l>$lemmaA<v n="cat"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/></l>
+					<r>$lemmaC<v n="cat"/></r>
 				</p>
 			</e>
 		</action>
@@ -479,14 +479,14 @@
         <pattern>
             <e r="RL">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -494,8 +494,8 @@
             <action>
                 <e r="RL">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -506,14 +506,14 @@
         <pattern>
             <e r="RL">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="m"/></r>
                 </p>
             </e>
         </pattern>
@@ -521,8 +521,8 @@
             <action>
                 <e r="RL">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="m"/></r>
                     </p>
                 </e>
             </action>
@@ -533,14 +533,14 @@
         <pattern>
             <e r="RL">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="f"/></r>
                 </p>
             </e>
         </pattern>
@@ -548,8 +548,8 @@
             <action>
                 <e r="RL">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="f"/></r>
                     </p>
                 </e>
             </action>
@@ -560,14 +560,14 @@
         <pattern>
             <e r="RL">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="m"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -575,8 +575,8 @@
             <action>
                 <e r="RL">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="m"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -587,14 +587,14 @@
         <pattern>
             <e r="RL">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="f"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -602,8 +602,8 @@
             <action>
                 <e r="RL">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="f"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -614,14 +614,14 @@
         <pattern>
             <e r="RL">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="*"/></r>
                 </p>
             </e>
         </pattern>
@@ -629,8 +629,8 @@
             <action>
                 <e r="RL">
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/></r>
                     </p>
                 </e>
             </action>
@@ -641,14 +641,14 @@
         <pattern>
             <e r="RL">
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="*"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -656,8 +656,8 @@
             <action>
                 <e r="RL">
                     <p>
-                        <l>$lemmaA<v n="cat"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -668,7 +668,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="m"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -676,7 +676,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="m"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -684,8 +684,8 @@
 		<action>	
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -696,7 +696,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="m"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -704,7 +704,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="f"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -712,8 +712,8 @@
 		<action>
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -724,7 +724,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="f"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -732,7 +732,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="f"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -740,8 +740,8 @@
 		<action>
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -752,7 +752,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="f"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -760,7 +760,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="m"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -768,8 +768,8 @@
 		<action>
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -780,7 +780,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="*"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -788,7 +788,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="m"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -796,8 +796,8 @@
 		<action>
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -808,7 +808,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="*"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -816,7 +816,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="f"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -824,8 +824,8 @@
 		<action>
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -836,7 +836,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="f"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -844,7 +844,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="*"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -852,8 +852,8 @@
 		<action>
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -864,7 +864,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="m"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -872,7 +872,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="*"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -880,8 +880,8 @@
 		<action>
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -892,7 +892,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="*"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -900,7 +900,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="*"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -908,8 +908,8 @@
 		<action>
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/></l>
+					<r>$lemmaC<v n="cat"/></r>
 				</p>
 			</e>
 		</action>
@@ -920,7 +920,7 @@
 	<pattern>
 		<e r="RL">
 			<p>
-				<l>$lemmaA<v n="cat"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -928,7 +928,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -936,8 +936,8 @@
 		<action>
 			<e r="RL">
 				<p>
-					<l>$lemmaA<v n="cat"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/></l>
+					<r>$lemmaC<v n="cat"/></r>
 				</p>
 			</e>
 		</action>
@@ -952,14 +952,14 @@
         <pattern>
             <e>
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -967,8 +967,8 @@
             <action>
                 <e>
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -979,14 +979,14 @@
         <pattern>
             <e>
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="m"/></r>
                 </p>
             </e>
         </pattern>
@@ -994,8 +994,8 @@
             <action>
                 <e>
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="m"/></r>
                     </p>
                 </e>
             </action>
@@ -1006,14 +1006,14 @@
         <pattern>
             <e>
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="f"/></r>
                 </p>
             </e>
         </pattern>
@@ -1021,8 +1021,8 @@
             <action>
                 <e>
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="f"/></r>
                     </p>
                 </e>
             </action>
@@ -1033,14 +1033,14 @@
         <pattern>
             <e>
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="m"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -1048,8 +1048,8 @@
             <action>
                 <e>
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="m"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -1060,14 +1060,14 @@
         <pattern>
             <e>
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="f"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -1075,8 +1075,8 @@
             <action>
                 <e>
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="f"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -1087,14 +1087,14 @@
         <pattern>
             <e>
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="mf"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="*"/></r>
                 </p>
             </e>
         </pattern>
@@ -1102,8 +1102,8 @@
             <action>
                 <e>
                     <p>
-                        <l>$lemmaA<v n="cat"/><s n="mf"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/><s n="mf"/></l>
+                        <r>$lemmaC<v n="cat"/></r>
                     </p>
                 </e>
             </action>
@@ -1114,14 +1114,14 @@
         <pattern>
             <e>
                 <p>
-                    <l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+                    <l>$lemmaA<v n="cat"/><s n="*"/></l>
                     <r>$lemmaB<v n="cat"/><t/></r>
                 </p>
             </e>
             <e>
                 <p>
                     <l>$lemmaB<v n="cat"/><t/></l>
-                    <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                    <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                 </p>
             </e>
         </pattern>
@@ -1129,8 +1129,8 @@
             <action>
                 <e>
                     <p>
-                        <l>$lemmaA<v n="cat"/><t n="tailA"/></l>
-                        <r>$lemmaC<v n="cat"/><s n="mf"/><t n="tailC"/></r>
+                        <l>$lemmaA<v n="cat"/></l>
+                        <r>$lemmaC<v n="cat"/><s n="mf"/></r>
                     </p>
                 </e>
             </action>
@@ -1141,7 +1141,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="m"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1149,7 +1149,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="m"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1157,8 +1157,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -1169,7 +1169,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="m"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1177,7 +1177,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="f"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1185,8 +1185,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -1197,7 +1197,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="f"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1205,7 +1205,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="f"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1213,8 +1213,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -1225,7 +1225,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="f"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1233,7 +1233,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="m"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1241,8 +1241,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -1253,7 +1253,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="*"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1261,7 +1261,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="m"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1269,8 +1269,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -1281,7 +1281,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="*"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1289,7 +1289,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="f"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1297,8 +1297,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -1309,7 +1309,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="f"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1317,7 +1317,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="*"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1325,8 +1325,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="f"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="f"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="f"/></l>
+					<r>$lemmaC<v n="cat"/><s n="f"/></r>
 				</p>
 			</e>
 		</action>
@@ -1337,7 +1337,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="m"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1345,7 +1345,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="*"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1353,8 +1353,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><s n="m"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><s n="m"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/><s n="m"/></l>
+					<r>$lemmaC<v n="cat"/><s n="m"/></r>
 				</p>
 			</e>
 		</action>
@@ -1365,7 +1365,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><s n="*"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/><s n="*"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1373,7 +1373,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><s n="*"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/><s n="*"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1381,8 +1381,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/></l>
+					<r>$lemmaC<v n="cat"/></r>
 				</p>
 			</e>
 		</action>
@@ -1393,7 +1393,7 @@
 	<pattern>
 		<e>
 			<p>
-				<l>$lemmaA<v n="cat"/><t n="tailA"/></l>
+				<l>$lemmaA<v n="cat"/></l>
 				<r>$lemmaB<v n="cat"/><t/></r>
 			</p>   
 
@@ -1401,7 +1401,7 @@
 		<e>
 			<p>
 				<l>$lemmaB<v n="cat"/><t/></l>
-				<r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+				<r>$lemmaC<v n="cat"/></r>
 			</p>
 		</e>
 	</pattern>
@@ -1409,8 +1409,8 @@
 		<action>
 			<e>
 				<p>
-					<l>$lemmaA<v n="cat"/><t n="tailA"/></l>
-					<r>$lemmaC<v n="cat"/><t n="tailC"/></r>
+					<l>$lemmaA<v n="cat"/></l>
+					<r>$lemmaC<v n="cat"/></r>
 				</p>
 			</e>
 		</action>
