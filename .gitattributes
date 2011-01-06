@@ -1,1 +1,17 @@
 * text=auto !eol
+dix/apertium-es-it.es-crossed.dix -text
+dix/apertium-es-it.es-it-crossed.dix -text
+dix/apertium-es-it.it-crossed.dix -text
+dix/apertium-ro-it.it-crossed.dix -text
+dix/apertium-ro-it.ro-crossed.dix -text
+dix/apertium-ro-it.ro-it-crossed.dix -text
+dix/consistent-bilAB.dix -text
+dix/consistent-bilBC.dix -text
+dix/consistent-monA.dix -text
+dix/consistent-monC.dix -text
+dix/not-common-apertium-es-it.es-it.dix -text
+dix/not-common-apertium-es-it.it.dix -text
+dix/not-common-apertium-es-ro.es-ro.dix -text
+dix/not-common-apertium-es-ro.ro.dix -text
+dix/not-common-es-ro.es-ro.dixapertium-ro-es.ro-es.dix -text
+dix/patterns-not-detected.xml -text
