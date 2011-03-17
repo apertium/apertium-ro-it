@@ -22990,7 +22990,7 @@
 <e>       <p><l>reactivare<s n="n"/></l>               <r>riattivazione<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default** -->
-<e>       <p><l>reactor<s n="n"/></l>                  <r>reattore<s n="n"/></r></p></e>
+<e>       <p><l>reactor<s n="n"/><s n="nt"/></l>                  <r>reattore<s n="n"/><s n="m"/></r></p></e>
     <!-- forced 'null' restriction
       default** -->
 <e>       <p><l>reacție<s n="n"/></l>                  <r>reazione<s n="n"/></r></p></e>

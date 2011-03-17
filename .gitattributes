@@ -1,4 +1,26 @@
 * text=auto !eol
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-ro-it.it-ro.t1x -text
+/apertium-ro-it.it-ro.t2x -text
+/apertium-ro-it.it-ro.t3x -text
+/apertium-ro-it.it.acx -text
+/apertium-ro-it.it.dix -text
+/apertium-ro-it.it.tsx -text
+/apertium-ro-it.post-it.dix -text
+/apertium-ro-it.post-ro.dix -text
+/apertium-ro-it.ro-it.dix -text
+/apertium-ro-it.ro-it.t1x -text
+/apertium-ro-it.ro-it.t2x -text
+/apertium-ro-it.ro-it.t3x -text
+/apertium-ro-it.ro.acx -text
+/apertium-ro-it.ro.dix -text
+/apertium-ro-it.ro.tsx -text
+/autogen.sh -text
+/configure.ac -text
 dix/apertium-es-it.es-crossed.dix -text
 dix/apertium-es-it.es-it-crossed.dix -text
 dix/apertium-es-it.it-crossed.dix -text
@@ -15,4 +37,6 @@ dix/not-common-apertium-es-ro.es-ro.dix -text
 dix/not-common-apertium-es-ro.ro.dix -text
 dix/not-common-es-ro.es-ro.dixapertium-ro-es.ro-es.dix -text
 dix/patterns-not-detected.xml -text
+/it-ro.prob -text svneol=unset#unset
 /mycross-model.xml -text
+/ro-it.prob -text
