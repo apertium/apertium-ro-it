@@ -21,6 +21,12 @@
 /apertium-ro-it.ro.tsx -text
 /autogen.sh -text
 /configure.ac -text
+dev/bilingual-summary.txt -text
+dev/generation-test.sh -text
+dev/inconsistency-summary.sh -text
+dev/inconsistency.sh -text
+dev/missing-bidix-freq.sh -text
+dev/testvoc.sh -text
 dix/apertium-es-it.es-crossed.dix -text
 dix/apertium-es-it.es-it-crossed.dix -text
 dix/apertium-es-it.it-crossed.dix -text
