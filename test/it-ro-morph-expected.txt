@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^,/,<cm>$
+[/0DUCxD10owuT]
+[IfB1FypjQyLO#0] ^cosʼ/cosa<prn><itg><mf><sg>$
+[/IfB1FypjQyLO]
+[LGJCMs3SIXcS#0] ^8/8<num>$
+[/LGJCMs3SIXcS]
+[LRunwvJ8cuyg#0] ^unʼ/un<det><ind><mf><sg>$
+[/LRunwvJ8cuyg]
+[Muuxq8wcYBzr#0] ^(/(<lpar>$
+[/Muuxq8wcYBzr]
+[RXWdQBLaGl1r#0] ^d'/da<pr>/di<pr>$
+[/RXWdQBLaGl1r]
+[UiUsyMM0a0Tg#0] ^quellʼ/quello<det><dem><mf><sg>$
+[/UiUsyMM0a0Tg]
+[io3oI9XtPhJ0#0] ^?/?<sent>$
+[/io3oI9XtPhJ0]
+[ioMZC5_8Tbft#0] ^nell’/in<pr>+il<det><def><mf><sg>$
+[/ioMZC5_8Tbft]

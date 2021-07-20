@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^default<default>{^@,<cm>$}$
+[/0DUCxD10owuT]
+[IfB1FypjQyLO#0] ^default<default>{^@cosa<prn><itg><mf><sg>$}$
+[/IfB1FypjQyLO]
+[LGJCMs3SIXcS#0] ^default<default>{^@8<num>$}$
+[/LGJCMs3SIXcS]
+[LRunwvJ8cuyg#0] ^default<default>{^un<det><ind><mf><sg>$}$
+[/LRunwvJ8cuyg]
+[Muuxq8wcYBzr#0] ^default<default>{^@(<lpar>$}$
+[/Muuxq8wcYBzr]
+[RXWdQBLaGl1r#0] ^default<default>{^@da<pr>$}$
+[/RXWdQBLaGl1r]
+[UiUsyMM0a0Tg#0] ^default<default>{^@quello<det><dem><mf><sg>$}$
+[/UiUsyMM0a0Tg]
+[io3oI9XtPhJ0#0] ^default<default>{^@?<sent>$}$
+[/io3oI9XtPhJ0]
+[ioMZC5_8Tbft#0] ^default<default>{^@in<pr>$}$ ^default<default>{^@il<det><def><mf><sg>$}$
+[/ioMZC5_8Tbft]

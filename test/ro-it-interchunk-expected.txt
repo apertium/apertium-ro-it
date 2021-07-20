@@ -1,0 +1,18 @@
+[-52kIMaPJ87s#0] ^pro<prnpro>{^le<prn><pro>$}$ ^pro<prnpro><p2><mf><sg>{^ti<prn><pro><p2><mf><sg>$}$
+[/-52kIMaPJ87s]
+[Sm_OjI-n23wm#0] ^pro<prnpro><p2><mf><pl>{^vi<prn><pro><p2><mf><pl>$}$ ^pro<prnpro><p3><f><pl>{^le<prn><pro><p3><f><pl>$}$
+[/Sm_OjI-n23wm]
+[Ukn0_MYp76Dm#0] ^pr<PREP><>{^in<pr>$}$
+[/Ukn0_MYp76Dm]
+[UuuBxO9yzXTK#0] ^unknown<unknown>{^*ylrsal$}$ ^unknown<unknown>{^*tien$}$
+[/UuuBxO9yzXTK]
+[WxKMR9RQIW5h#0] ^pro<prnpro><p2><mf><pl>{^vi<prn><pro><p2><mf><pl>$}$
+[/WxKMR9RQIW5h]
+[cQ3ZgJl-rdIU#0] ^pr<PREP><>{^in<pr>$}$
+[/cQ3ZgJl-rdIU]
+[f9lsUo-fSwRT#0] ^unknown<unknown>{^*şne$}$
+[/f9lsUo-fSwRT]
+[io3oI9XtPhJ0#0] ^punt<sent>{^@?<sent>$}$
+[/io3oI9XtPhJ0]
+[m69EByAuWw4C#0] ^pr<PREP><>{^a<pr>$}$
+[/m69EByAuWw4C]

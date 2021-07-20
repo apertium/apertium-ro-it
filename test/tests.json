@@ -1,0 +1,10 @@
+{
+    "it-ro": {
+        "input": "it-ro-input.txt",
+        "mode": "it-ro"
+    },
+    "ro-it": {
+        "input": "ro-it-input.txt",
+        "mode": "ro-it"
+    }
+}

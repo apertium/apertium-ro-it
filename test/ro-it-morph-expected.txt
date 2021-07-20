@@ -1,0 +1,18 @@
+[-52kIMaPJ87s#0] ^li te/îl<prn><pro><p3><fn><pl><dg>+te<prn><pro><p2><mf><sg>$
+[/-52kIMaPJ87s]
+[Sm_OjI-n23wm#0] ^vi le/vă<prn><pro><p2><mf><pl><dg>+îl<prn><pro><p3><f><pl>$
+[/Sm_OjI-n23wm]
+[Ukn0_MYp76Dm#0] ^-n/în<pr>$
+[/Ukn0_MYp76Dm]
+[UuuBxO9yzXTK#0] ^ylrsal/*ylrsal$ ^tien/*tien$
+[/UuuBxO9yzXTK]
+[WxKMR9RQIW5h#0] ^v-/vă<prn><pro><p2><mf><pl><nom>/vă<prn><pro><p2><mf><pl><dg>$
+[/WxKMR9RQIW5h]
+[cQ3ZgJl-rdIU#0] ^într-/într-<pr>$
+[/cQ3ZgJl-rdIU]
+[f9lsUo-fSwRT#0] ^şne/*şne$
+[/f9lsUo-fSwRT]
+[io3oI9XtPhJ0#0] ^?/?<sent>$
+[/io3oI9XtPhJ0]
+[m69EByAuWw4C#0] ^a-/la<pr>$
+[/m69EByAuWw4C]
